@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nsunilkumar6694
+- 👋 Hi, I’m N SUNIL KUMAR
 - 👀 I’m interested in cloud with AI n ML
 - 🌱 I’m currently learning Microsoft Azure
 - 💞️ I’m looking to collaborate on ...
